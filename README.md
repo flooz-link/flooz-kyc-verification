@@ -1,5 +1,5 @@
 # Flooz KYC Process
-The Flooz KYC process is one of the most robust KYC check available in crypto. Our service is secured by **Passbase technology** ensuring the most rigorous and legally compliant checks are completed with the aim of bringing trust and transparency to the blockchain.  
+The Flooz KYC process is one of the most robust KYC checks available in crypto. Our service is secured by **Passbase technology** ensuring the most rigorous and legally compliant checks are completed with the aim of bringing trust and transparency to the blockchain.  
 If you would like to request a KYC please visit our partnerships store at `partnerships.flooz.trade`
 # Important Disclaimer
 Our KYC makes no statements, or guarantees the safety and security of a project. It’s also not to be considered as an assessment regarding the utility or longevity of a project.
