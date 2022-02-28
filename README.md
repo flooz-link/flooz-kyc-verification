@@ -7,4 +7,4 @@ To obtain a Flooz KYC we require the owner of a project and/or the contract deve
 If you believe a KYC to be no longer valid you can contact our partnerships lead at craig@flooz.link  
 The information provided in our document does not constitute financial advice. It’s important to conduct your own due diligence, research and consult a financial advisor before making any investment decisions.
 # About Flooz
-Flooz provides innovative multi-chain blockchain solutions with the aim of bringing the next 100 million people onto the blockchain by humanising crypto. We’re a decentralised team of experts in the world of finance, design, art, engineering and much more with backgrounds in building technology and apps worth hundreds of millions of dollars.
+Flooz provides innovative and social multi-chain blockchain solutions with the aim of bringing the next 100 million people onto the blockchain by humanising crypto. We’re a decentralised team of experts in the world of finance, design, art, engineering and much more with backgrounds in building technology and apps worth hundreds of millions of dollars.
